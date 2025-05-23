@@ -1,0 +1,86 @@
+{
+  "moon_phases": [
+    {
+      "phase": "Full Moon",
+      "datetime": "2025-05-12T22:25:56.330901+05:30"
+    },
+    {
+      "phase": "Last Quarter",
+      "datetime": "2025-05-20T17:28:46.088003+05:30"
+    },
+    {
+      "phase": "New Moon",
+      "datetime": "2025-05-27T08:32:21.056863+05:30"
+    },
+    {
+      "phase": "First Quarter",
+      "datetime": "2025-06-03T09:10:58.140855+05:30"
+    }
+  ],
+  "events": [
+    {
+      "name": "Planetary Parade",
+      "date": "2025-02-28",
+      "description": "A rare alignment where all seven other planets appear in the sky."
+    },
+    {
+      "name": "Eta Aquariids Meteor Shower",
+      "date": "2025-05-07",
+      "description": "Peaks with around 24 meteors per hour; best viewed between 3am and 5am."
+    },
+    {
+      "name": "Perseid Meteor Shower",
+      "date": "2025-08-12",
+      "description": "One of the brightest meteor showers, producing up to 100 meteors per hour."
+    },
+    {
+      "name": "Total Lunar Eclipse",
+      "date": "2025-09-07",
+      "description": "A total lunar eclipse visible over east Africa, Asia, and Australia."
+    },
+    {
+      "name": "Partial Solar Eclipse",
+      "date": "2025-09-21",
+      "description": "A partial solar eclipse visible across much of Oceania and Antarctica."
+    },
+    {
+      "name": "Geminid Meteor Shower",
+      "date": "2025-12-14",
+      "description": "Considered the king of meteor showers, with up to 160 meteors per hour."
+    }
+  ],
+  "eclipses": {
+    "next_solar": "2026 February 17",
+    "next_lunar": "2026 March 3"
+  },
+  "forecast_daily": [
+    {
+      "date": "2025-05-11T00:00:00",
+      "label": 1
+    },
+    {
+      "date": "2025-05-12T00:00:00",
+      "label": 1
+    },
+    {
+      "date": "2025-05-13T00:00:00",
+      "label": 1
+    },
+    {
+      "date": "2025-05-14T00:00:00",
+      "label": 1
+    },
+    {
+      "date": "2025-05-15T00:00:00",
+      "label": 1
+    },
+    {
+      "date": "2025-05-16T00:00:00",
+      "label": 1
+    },
+    {
+      "date": "2025-05-17T00:00:00",
+      "label": 1
+    }
+  ]
+}
