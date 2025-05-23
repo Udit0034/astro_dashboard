@@ -67,41 +67,41 @@ An interactive Streamlit-based astronomy dashboard that pulls weather forecasts,
 
 ### 1. Clone the repository
 
--git clone https://github.com/Udit0034/astronomy-dashboard.git
--cd astronomy-dashboard
+- git clone https://github.com/Udit0034/astronomy-dashboard.git
+- cd astronomy-dashboard
 
 
--pip install -r requirements.txt
+- pip install -r requirements.txt
 
 
--run streamlit app.py
+- run streamlit app.py
 
-###🗓️ Future Roadmap
+### 🗓️ Future Roadmap
 
- -Improve chatbot with larger corpus and retrieval model (e.g., RAG)
+ - Improve chatbot with larger corpus and retrieval model (e.g., RAG)
 
- -Enhance constellation matching (rotation, scale invariance)
+ - Enhance constellation matching (rotation, scale invariance)
 
- -Use API/scraping for real-time astronomy events
+ - Use API/scraping for real-time astronomy events
 
- -Add mobile responsiveness
+ - Add mobile responsiveness
 
-###🙏 Credits & Acknowledgments
--constellation_lines.json used from @ofrohn's GitHub repository
+### 🙏 Credits & Acknowledgments
+- constellation_lines.json used from @ofrohn's GitHub repository
 
--eclipse_data.csv downloaded from Kaggle Eclipse Dataset (credit to uploader)
+- eclipse_data.csv downloaded from Kaggle Eclipse Dataset (credit to uploader)
 
--Weather data powered by Open-Meteo API
+- Weather data powered by Open-Meteo API
 
--Astronomy calculations via AstroPy and Skyfield
+- Astronomy calculations via AstroPy and Skyfield
 
--Classification via XGBoost
+- Classification via XGBoost
 
--Sentence embeddings via SentenceTransformers
+- Sentence embeddings via SentenceTransformers
 
 
-###🔖 Version
--v0.1 – Stable base release with working dashboard and prototype AI features
+### 🔖 Version
+- v0.1 – Stable base release with working dashboard and prototype AI features
 
-###🧠 Developer Notes
--This project was built with limited compute resources (no GPU, 16GB RAM) and is the first working version. It will be improved in future updates.
+### 🧠 Developer Notes
+- This project was built with limited compute resources (no GPU, 16GB RAM) and is the first working version. It will be improved in future updates.
